@@ -1,0 +1,19 @@
+.clients {
+    color: #B3B7BC;
+    font-weight: 400;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.list {
+    display: flex;
+    gap: 5vw;
+}
+
+.client {
+    height: 25px;
+}
